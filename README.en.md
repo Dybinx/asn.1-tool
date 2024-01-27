@@ -22,7 +22,7 @@ It is a tool with encoding and decoding capabilities, covering multiple interfac
 
 Let's take a look at the operation of this tool to give everyone a visual experience.
 
-![asn1-tool](./README.assets/asn1-tool.gif)
+![asn1-tool](./README.en.assets/asn1-tool.gif)
 
 ## Protocol Support
 
@@ -71,11 +71,9 @@ Supports various search functions, and can automatically match and complete hist
 
 You can add ASN.1 files of different protocol versions as needed and keep them in the data folder of the installation directory. The ASN. 1 file can be obtained by contacting the developer.
 
-After putting the ASN.1 file into the data folder, restart the program, and the corresponding protocol file can be seen in the "Protocol Selection" drop-down menu of the tool.
-
-
-
 <img src="./README.en.assets/image-20240128003420959.png" alt="image-20240128003420959" style="zoom:50%;" />
+
+After putting the ASN.1 file into the data folder, restart the program, and the corresponding protocol file can be seen in the "Protocol Selection" drop-down menu of the tool.
 
 ![image-20240128003945179](./README.en.assets/image-20240128003945179.png)
 
