@@ -53,7 +53,7 @@ Each IE will have an icon that identifies the ANS.1 type of each IE. The specifi
 
 ## Convenient and fast input method
 
-![img](./README.assets/a0e4a1f223d4441fdde3fc7170c0acd8.png)
+![image-20240127231145131](./README.en.assets/image-20240127231145131.png)
 
 The second column of the element display area allows for different types of values to be entered, and the way numerical values are entered may vary depending on the type of ASN. 1.
 
@@ -61,8 +61,8 @@ Before entering, you need to select the corresponding IE row and then click on t
 
 ## Powerful search function
 
-![image-20240122101828417](./README.assets/image-20240122101828417.png)
+![image-20240127231315562](./README.en.assets/image-20240127231315562.png)
 
 Supports various search functions, and can automatically match and complete historical keywords when entering them. As follows:
 
-![image-20240122102030959](./README.assets/image-20240122102030959.png)
+<img src="/Users/jeffduan/Documents/code/github/asn.1-tool/README.en.assets/image-20240127231357489.png" alt="image-20240127231357489" style="zoom: 50%;" />
