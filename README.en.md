@@ -66,3 +66,18 @@ Before entering, you need to select the corresponding IE row and then click on t
 Supports various search functions, and can automatically match and complete historical keywords when entering them. As follows:
 
 <img src="./README.en.assets/image-20240127231357489.png" alt="image-20240127231357489" style="zoom: 25%;" />
+
+## Support adding desired ASN.1 files as needed
+
+You can add ASN.1 files of different protocol versions as needed and keep them in the data folder of the installation directory. The ASN. 1 file can be obtained by contacting the developer.
+
+After putting the ASN.1 file into the data folder, restart the program, and the corresponding protocol file can be seen in the "Protocol Selection" drop-down menu of the tool.
+
+
+
+<img src="./README.en.assets/image-20240128003420959.png" alt="image-20240128003420959" style="zoom:50%;" />
+
+![image-20240128003945179](./README.en.assets/image-20240128003945179.png)
+
+
+
