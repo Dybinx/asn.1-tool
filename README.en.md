@@ -65,4 +65,4 @@ Before entering, you need to select the corresponding IE row and then click on t
 
 Supports various search functions, and can automatically match and complete historical keywords when entering them. As follows:
 
-<img src="./README.en.assets/image-20240127231357489.png" alt="image-20240127231357489" style="zoom: 50%;" />
+<img src="./README.en.assets/image-20240127231357489.png" alt="image-20240127231357489" style="zoom: 25%;" />
